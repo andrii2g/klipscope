@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KlipScope.Cli/KlipScope.Cli.csproj" />
+    <Project Path="src/KlipScope.Core/KlipScope.Core.csproj" />
+    <Project Path="src/KlipScope.KlipperTcp/KlipScope.KlipperTcp.csproj" />
+    <Project Path="src/KlipScope.Moonraker/KlipScope.Moonraker.csproj" />
+  </Folder>
+</Solution>
