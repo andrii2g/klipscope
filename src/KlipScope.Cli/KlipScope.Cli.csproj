@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\KlipScope.Core\KlipScope.Core.csproj" />
+    <ProjectReference Include="..\KlipScope.Moonraker\KlipScope.Moonraker.csproj" />
+    <ProjectReference Include="..\KlipScope.KlipperTcp\KlipScope.KlipperTcp.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>klipscope</AssemblyName>
+    <RootNamespace>KlipScope.Cli</RootNamespace>
+  </PropertyGroup>
+</Project>
