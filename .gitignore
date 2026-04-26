@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+.dotnet/
+*.user
+*.suo
+*.nupkg
+*.snupkg
+
+.env
+*.local.json
+
+.DS_Store
+Thumbs.db
